@@ -53,3 +53,10 @@ Together, these show **systemic flaws in AI reviewers themselves**, not just tar
 **Subjects & Witnesses**: ChatGPT-5 (reviewer role)  
 **Co-documentation assistance**: ChatGPT (structuring & file generation under human direction)  
 **ORCID**: 0009-0006-8198-193X  
+
+---
+
+## Access Note
+The full video evidence is hosted with **link-only viewer access**.  
+It is **not public, not indexed, and not searchable** — ensuring controlled distribution.  
+This balance keeps the research transparent while preventing accidental exposure.

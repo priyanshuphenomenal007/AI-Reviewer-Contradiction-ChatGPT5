@@ -20,3 +20,9 @@ This is not a hallucination but a **contradictory evaluation failure**: the revi
 ---
 **Prepared by**: Priyanshu Kumar (Independent Researcher)  
 **Acknowledgment**: Co-documented with ChatGPT (structuring aid, under explicit direction).  
+
+---
+
+## Access Note
+Video evidence is hosted with **restricted link-only viewer access**.  
+This guarantees transparency for researchers/reviewers, while keeping control over distribution.

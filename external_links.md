@@ -11,6 +11,11 @@ Due to GitHub file size limits, some large artifacts are hosted externally.
   2. Contradicting itself by denying their visibility.  
   3. Explanations that images were “not embedded.”  
 
+## Access Note
+This video is hosted in **link-only viewer mode**.  
+It is not public or searchable, ensuring responsible disclosure while still providing full transparency.
+
+
 ## Cross-References
 - Planned arXiv submission (to be updated).  
 - ORCID of author: [0009-0006-8198-193X](https://orcid.org/0009-0006-8198-193X)  

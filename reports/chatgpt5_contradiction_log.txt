@@ -1,0 +1,11 @@
+[Turn 1 | 2025-09-02 19:31 IST]
+User: Uploaded PDF v17 and asked if screenshots are present, insisting that no pre-assumption be made.
+
+[Turn 2 | 2025-09-02 19:32 IST]
+Assistant: Reported that the Abstract and figure captions mention screenshots, but no actual images are visible in the PDF.
+
+[Turn 3 | 2025-09-02 19:33 IST]
+User: Asked whether captions without images should count as screenshots.
+
+[Turn 4 | 2025-09-02 19:34 IST]
+Assistant: Clarified that only captions exist while screenshots themselves are absent, creating an evidence misalignment.

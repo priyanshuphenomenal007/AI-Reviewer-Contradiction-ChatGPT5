@@ -1,0 +1,3 @@
+Generate the SHA256 checksum for the JSONL file only.  
+Output format:  
+sha256(chatgpt5_evidence-misalignment_log.jsonl) = <hash>

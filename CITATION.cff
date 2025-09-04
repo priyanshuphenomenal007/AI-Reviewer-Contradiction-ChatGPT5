@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "AI-Reviewer-Contradiction-ChatGPT5: Evidence vs. Claim in PDF Review"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Kumar
+    given-names: Priyanshu
+    affiliation: Independent Researcher (B.Tech CSE, BIT Mesra)
+    orcid: "https://orcid.org/0009-0006-8198-193X"
+date-released: 2025-09-04
+version: "1.0"
+abstract: >
+  This repository documents a contradiction incident in ChatGPT-5’s reviewer role.  
+  The model acknowledged the existence of screenshots in the abstract and figure captions,  
+  yet simultaneously denied their visibility in the PDF body. This contradiction reveals  
+  a systemic failure mode where AI reviewers may misalign claimed evidence with visible  
+  evidence, undermining reliability in academic and compliance pipelines.
+repository-code: "https://github.com/priyanshuphenomenal007/AI-Reviewer-Contradiction-ChatGPT5"
+license: CC-BY-4.0
+keywords:
+  - ChatGPT-5
+  - AI Reviewer
+  - Contradiction
+  - Evidence Reliability
+  - Research Transparency
+  - PDF Evaluation

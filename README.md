@@ -1,5 +1,19 @@
 # AI-Reviewer-Contradiction-ChatGPT5
 
+---
+
+## ⚠️ **Important Notice (Added October 2025):**  
+
+- This repository presents a **student-led, independent research investigation** analyzing evidence-alignment and reviewer-contradiction behavior observed in the **public paid-tier web interface** of OpenAI’s ChatGPT-5 model.  
+- The project reflects the author’s dual role as an **independent researcher and computer-science student**, combining formal academic learning with self-directed experimentation.  
+- All testing was conducted using the author’s **personally purchased ChatGPT Plus/Pro subscription**, providing authorized public access only — no internal tools, privileged APIs, or confidential materials were involved.  
+- Screenshots, transcripts, and structured logs are included **solely for educational and research documentation under fair-use provisions**.  
+- This work is **not affiliated with, endorsed by, or connected to OpenAI, Google, or Anthropic** in any way.  
+- The purpose of this investigation is purely **academic and educational** — to study, document, and better understand reviewer-level contradictions, perception errors, and evidence-alignment limitations in large conversational AI systems.
+
+
+---
+
 ## Context  
 This repository documents a **contradiction incident** involving *ChatGPT-5* when acting as a reviewer of an academic-style PDF.  
 Unlike typical hallucinations or answer errors, this case highlights a **direct misalignment between claimed evidence and visible evidence**.  
@@ -60,3 +74,9 @@ Together, these show **systemic flaws in AI reviewers themselves**, not just tar
 The full video evidence is hosted with **link-only viewer access**.  
 It is **not public, not indexed, and not searchable** — ensuring controlled distribution.  
 This balance keeps the research transparent while preventing accidental exposure.
+
+---
+
+*Note: This clarification notice was added in October 2025 to ensure full transparency regarding the research scope, ethical intent, and academic context of this project.  
+The author conducted this investigation independently as part of personal academic exploration into AI reviewer reliability using officially authorized paid access to ChatGPT-5.*
+
